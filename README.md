@@ -1,7 +1,7 @@
 # ziadulhuq/tap
 
-Homebrew formulae for [macadmin](https://github.com/ziadulhuq/macadmin-releases), a terminal app
-that lists your Mac's apps, services, Homebrew packages, local AI models, network and system details,
+Homebrew formulae for [macadmin](https://github.com/ziadulhuq/macadmin-releases), a desktop app
+(with a terminal mode) that lists your Mac's apps, services, Homebrew packages, local AI models, network and system details,
 with update checks.
 
 ```bash
