@@ -4,8 +4,8 @@
 class Macadmin < Formula
   desc "Terminal app for your Mac's apps, services, packages, AI models and network"
   homepage "https://github.com/ziadulhuq/macadmin-releases"
-  url "https://github.com/ziadulhuq/macadmin-releases/releases/download/v1.0.0/macadmin-1.0.0.aarch64.tar.gz"
-  sha256 "095c1d026c56a0306e79ca05a7f21697fab05b44557ebb2ea35d98c80545cd7b"
+  url "https://github.com/ziadulhuq/macadmin-releases/releases/download/v1.2.0/macadmin-1.2.0.aarch64.tar.gz"
+  sha256 "2b0deec12c884178aa3e3acd440a25a306437d3043cb54b5afb228b2863b0406"
 
   depends_on arch: :arm64
 
