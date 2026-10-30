@@ -2,10 +2,10 @@
 # Formula/macadmin.rb by installer/make-release-mac.sh (it fills in the
 # version and sha256). Installs the prebuilt program from the public release.
 class Macadmin < Formula
-  desc "Terminal app for your Mac's apps, services, packages, AI models and network"
+  desc "Desktop and terminal app for your Mac's apps, services, packages, AI models"
   homepage "https://github.com/ziadulhuq/macadmin-releases"
-  url "https://github.com/ziadulhuq/macadmin-releases/releases/download/v1.2.0/macadmin-1.2.0.aarch64.tar.gz"
-  sha256 "2b0deec12c884178aa3e3acd440a25a306437d3043cb54b5afb228b2863b0406"
+  url "https://github.com/ziadulhuq/macadmin-releases/releases/download/v1.3.0/macadmin-1.3.0.aarch64.tar.gz"
+  sha256 "9288c97db86662e59932941cdb116b27671e62bfd891e8e948b6acb75b61d1be"
 
   depends_on arch: :arm64
 
