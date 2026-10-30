@@ -6,7 +6,8 @@ with update checks.
 
 ```bash
 brew install ziadulhuq/tap/macadmin   # install
-macadmin init                         # once: checks, settings, security
+macadmin init                         # once: checks, settings, security; adds macadmin.app (Spotlight, Finder)
+macadmin                              # the terminal app; macadmin --gui (or macadmin.app) opens the window
 brew upgrade macadmin                 # update (or: macadmin update)
 brew uninstall macadmin               # remove (settings stay in ~/.macadmin)
 ```
